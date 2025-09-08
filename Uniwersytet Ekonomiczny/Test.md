@@ -1,3 +1,1 @@
-Pisz pisze  
-enter kolejna linijkla  
-lol 
+Każde zadanie wymaga osobnego pull requesta: - ***Nazwa PR***: `${nrZadanka}. ${imieINazwisko}` (np. `1. Kamil Marczak`) - ***Nazwa brancha***: `${nrZadanka}-${imie}-${nazwisko}` (np. `1-kamil-marczak`) - ***Deadline***: Każde zadanie ma określony termin - ***Code review***: Mogę przejrzeć Wasz kod i dać feedback
