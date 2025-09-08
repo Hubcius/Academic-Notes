@@ -1,3 +1,3 @@
-Pisz pisze
-enter kolejna linijkla
-lol
+Pisz pisze  
+enter kolejna linijkla 
+lol 
