@@ -1,5 +1,3 @@
-ble bkle beklekjjadjkdsajk
-
-
-dhasids
-**test**
+Pisz pisze
+enter kolejna linijkla
+lol
